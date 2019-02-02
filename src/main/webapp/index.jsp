@@ -5,5 +5,11 @@
 <h3>
 	First Page 
 </h3>
+
+<p>
+
+Name : <input type="text" />
+<input type="button" value="Submit"/>
+</p>
 </body>
 </html>
