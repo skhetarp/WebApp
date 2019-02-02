@@ -11,5 +11,7 @@
 Name : <input type="text" />
 <input type="button" value="Submit"/>
 </p>
+
+<a href="home.jsp">Home</a>
 </body>
 </html>
